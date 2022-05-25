@@ -1,0 +1,6 @@
+Nama: riyan
+Umur: 19
+Alamat: surakarta
+Nama: dodo
+Umur: 20
+Alamat: swedia
